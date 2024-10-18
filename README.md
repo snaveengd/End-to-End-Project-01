@@ -20,7 +20,7 @@ Microsoft Power BI
 
 ## Architecture
 
-![Project Architecture]([DEP1.drawio.png](https://github.com/snaveengd/End-to-End-Project-01/blob/main/End-end-01/DEP1.drawio.png))
+![Project Architecture](DEP1.drawio.png)
 
 
 
