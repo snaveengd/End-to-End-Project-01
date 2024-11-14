@@ -1,0 +1,9 @@
+{
+	"name": "azure-end-to-end-01",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8059d90-edc0-4135-8f46-b32023fb0596",
+		"tenantId": "6b5f1b61-1f3d-4861-a8f0-ea0991c04589"
+	}
+}
