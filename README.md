@@ -1,4 +1,4 @@
-# End-to-End-Azure-Project-01
+# Azure Data Engineering Architect: Ingestion, Transformation, and Reporting
 ## Overview
 This project outlines the development of a robust Azure data engineering solution, designed to efficiently ingest, transform, load, and analyze data. By leveraging key Azure services, I have created a scalable and secure data platform that supports critical business insights.
 
